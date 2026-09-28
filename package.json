@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/normcue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Norm URLs and cue query parts with stable normalization.",
+  "bin": {
+    "normcue": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/normcue.git"
+  },
+  "homepage": "https://theworker02.github.io/normcue/",
+  "keywords": [
+    "norm",
+    "cue",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
